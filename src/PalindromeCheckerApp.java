@@ -18,4 +18,6 @@ public class PalindromeCheckerApp {
             System.out.println("UC4 Result: '" + word + "' is NOT a palindrome.");
         }
     }
+
 }
+
