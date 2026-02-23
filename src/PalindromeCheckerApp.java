@@ -1,6 +1,6 @@
 public class PalindromeCheckerApp {
 
-    
+
     // UC2: Hardcoded Palindrome
     public static void checkHardcodedPalindrome() {
         String word = "radar"; // hardcoded palindrome
@@ -13,4 +13,5 @@ public class PalindromeCheckerApp {
         }
     }
    
+
 }
