@@ -1,8 +1,6 @@
 public class PalindromeCheckerApp {
 
-    public static void main(String[] args) {
-        displayWelcomeMessage();
-    }
+
 
     // UC1: Welcome Message Module
     public static void displayWelcomeMessage() {
@@ -11,4 +9,5 @@ public class PalindromeCheckerApp {
         System.out.println("====================================");
     }
    
+
 }
