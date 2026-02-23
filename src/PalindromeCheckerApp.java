@@ -93,7 +93,7 @@ import java.util.Stack;
         }
     }
     import java.util.ArrayDeque;
-import java.util.Deque;
+    import java.util.Deque;
 
     public static void checkPalindromeDeque(String word) {
         Deque<Character> deque = new ArrayDeque<>();
